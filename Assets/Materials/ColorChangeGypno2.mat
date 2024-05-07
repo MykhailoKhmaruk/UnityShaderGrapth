@@ -39,11 +39,11 @@ Material:
     m_Floats:
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _SizeFactor: -0.76
-    - _Speed: 2
+    - _SizeFactor: 13.46
+    - _Speed: 6.95
     m_Colors:
-    - _FirstColor: {r: 0.6830188, g: 0, b: 0, a: 0}
-    - _SecondColor: {r: 0, g: 0.4415095, b: 0.36363986, a: 0}
+    - _FirstColor: {r: 0, g: 0.13275027, b: 1, a: 0}
+    - _SecondColor: {r: 1, g: 0.8461646, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &6405507446348685303
 MonoBehaviour:
