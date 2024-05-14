@@ -37,8 +37,16 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Rotation: 0
-    m_Colors: []
+    - _MiddlePosition: 0
+    - _Rotation: 360
+    - _Spread: 0
+    m_Colors:
+    - _ColorBottom: {r: 0, g: 0.09110212, b: 1, a: 0}
+    - _ColorLB: {r: 0, g: 0, b: 0, a: 0}
+    - _ColorLT: {r: 0, g: 0, b: 0, a: 0}
+    - _ColorRB: {r: 0, g: 0.7254902, b: 0, a: 0}
+    - _ColorRT: {r: 0.78431374, g: 1, b: 0, a: 0}
+    - _ColorTop: {r: 1, g: 0.98303974, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &7498796958505825698
 MonoBehaviour:
