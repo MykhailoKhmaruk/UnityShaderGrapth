@@ -51,13 +51,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _CoefficientNormalize: 1
-    - _Edge: 2
+    - _Edge: 0.95
     - _Metallic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ScaleNoise: 5
-    - _Smoothness: 0.299
+    - _Smoothness: 0.443
     m_Colors:
     - _BaseColor: {r: 0.8301887, g: 0.043075833, b: 0.043075833, a: 0}
-    - _ReplaceColor: {r: 0.7529412, g: 0.675262, b: 0.07450979, a: 0}
+    - _ReplaceColor: {r: 0.9924528, g: 0.8777184, b: 0, a: 0}
   m_BuildTextureStacks: []
